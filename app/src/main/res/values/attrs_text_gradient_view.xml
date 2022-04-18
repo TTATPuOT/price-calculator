@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="TextGradientView">
+        <attr name="android:text"/>
+        <attr name="android:textColor"/>
+        <attr name="startColor" format="reference|color" />
+        <attr name="endColor" format="reference|color" />
+    </declare-styleable>
+</resources>

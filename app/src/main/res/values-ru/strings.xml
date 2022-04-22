@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_price">Цена</string>
+    <string name="input_price_suffix">₽</string>
+    <string name="input_amount">Количество</string>
+    <string name="input_amount_suffix">ед.</string>
+
+    <string name="result_description">₽ за единицу</string>
+    <string name="copyrights">Разработал <a href="https://patriotovsky.ru/">Антон Неверов</a></string>
+</resources>

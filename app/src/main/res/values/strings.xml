@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Price Calculator</string>
+    <string name="app_name" translatable="false">Price Calculator</string>
 
     <string name="input_price">Price</string>
     <string name="input_price_suffix">$</string>
